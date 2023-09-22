@@ -14,6 +14,7 @@ class _HomeState extends State<Home> {
       appBar: new AppBar(
         
         title: new Text("MovieApp - 200668"),
+         backgroundColor: Colors.pink,
         actions: <Widget>[
           new IconButton(
             icon: new Icon(Icons.search,color: Colors.white,),
