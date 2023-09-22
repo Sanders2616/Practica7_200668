@@ -11,5 +11,5 @@ Descripción:Realizar la aplicación con contexto de peliculas, que incluya un B
 Fecha entrega: 21 de septiembre del 2023
 <div style="display: flex; justify-content:">
  <img align="left" src="movieapp_200668/imagenes/2.jpg?raw=true" alt="Imagen 1" width="200";/>
-<img align="right" src="movieapp_200668/imagenes/1.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="movieapp_200668/imagenes/1.jpg?raw=true" alt="Imagen 2"  width="200" />
 </div>
