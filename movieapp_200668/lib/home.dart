@@ -12,7 +12,8 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("MovieApp - 200070"),
+        
+        title: new Text("MovieApp - 200668"),
         actions: <Widget>[
           new IconButton(
             icon: new Icon(Icons.search,color: Colors.white,),
