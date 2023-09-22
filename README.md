@@ -8,7 +8,7 @@ Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
 Practica 7:Contexto inicial de la aplicacion movieapp. <br>
 Descripción:Realizar la aplicación con contexto de peliculas, que incluya un Bottom Navigation Bar, Drawer. <br>
-Fecha entrega: 21 de septiembre del 2023 <br> <br>
+Fecha entrega: 22 de septiembre del 2023 <br> <br>
 
 # Resultado de la Practica 7
 
