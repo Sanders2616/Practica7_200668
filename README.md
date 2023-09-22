@@ -10,4 +10,4 @@ Practica 7:Contexto inicial de la aplicacion movieapp. <br>
 Descripción:Realizar la aplicación con contexto de peliculas, que incluya un Bottom Navigation Bar, Drawer. <br>
 Fecha entrega: 21 de septiembre del 2023
 
-<img align="right" src="movieapp_200668/imagenes/1.jpgraw=true" alt="Imagen 2" width="300" height="80" />
+<img align="right" src="movieapp_200668/imagenes/1.jpg?raw=true" alt="Imagen 2" width="300" height="80" />
